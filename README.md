@@ -9,3 +9,6 @@
 ```
 bash install.sh
 ```
+
+# Preview
+![Image](./assets/preview.png)
