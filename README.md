@@ -4,10 +4,9 @@
 - You can use this "collection", but it is mainly for my use only and I am not responsible for any mistakes!
 
 # Usage
-- Download `install.sh` file.
 - Open a terminal and run 
 ```
-bash install.sh
+wget -O - https://raw.githubusercontent.com/BlobDeveloper/i3wm/main/install.sh | bash
 ```
 
 # Preview
