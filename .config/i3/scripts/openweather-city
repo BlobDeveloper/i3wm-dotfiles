@@ -7,9 +7,11 @@ Aborting."; exit 1; }
 
 # config
 # https://home.openweathermap.org
-APIKEY=""
-CITY_ID=""
+# you can use my ApiKey, nvm :D
+APIKEY="54adc60fea6d6c736cd73e7341f143f2"
+CITY_ID="3057124"
 URL="http://api.openweathermap.org/data/2.5/weather?id=${CITY_ID}&units=metric&APPID=${APIKEY}"
+
 
 WEATHER_RESPONSE=$(wget -qO- "${URL}")
 
