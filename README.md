@@ -6,7 +6,7 @@
 # Usage
 - Open a terminal and run 
 ```
-wget -O - https://raw.githubusercontent.com/BlobDeveloper/i3wm/main/install.sh | bash
+wget -O - https://raw.githubusercontent.com/BlobDeveloper/i3wm-dotfiles/main/install.sh | bash
 ```
 
 # Preview
